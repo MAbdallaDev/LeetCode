@@ -18,6 +18,7 @@ LeetCode Solutions
 |86|[Partition List](https://leetcode.com/problems/partition-list/?envType=study-plan-v2&envId=top-interview-150)|[C++](./Top%20Interview%20150/Linked-List/86.Partition_List.md)|Medium|Linked List, Two Pointers|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/?envType=study-plan-v2&envId=top-interview-150)|[C++](./Top%20Interview%20150/Linked-List/92.Reverse_Linked_List_II.md)|Medium|Linked List|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/?envType=study-plan-v2&envId=top-interview-150)|[C++ , JS](./Top%20Interview%20150/Array-String/134.Gas_Station.md)|Medium|Array, Greedy|
+|135|[Candy](https://leetcode.com/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150)|[C++](./Top%20Interview%20150/Array-String/135.candy.md)|Medium|Array, Greedy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/?envType=study-plan-v2&envId=top-interview-150)|[C++](./Top%20Interview%20150//Linked-List/141.Linked_List_Cycle.md)|Easy|Linked List, Hash Table, Two Pointers|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/?envType=study-plan-v2&envId=top-interview-150)|[C++](./Top%20Interview%20150/Stack/150.Evaluate_Reverse_Polish_Notation.md)|Medium|Stack, Array, Math|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/?envType=study-plan-v2&envId=top-interview-150)|[C++](./Top%20Interview%20150/Stack/155.Min_Stack.md)|Medium|Stack, Design|
