@@ -6,6 +6,7 @@ LeetCode Solutions
 |-----| -------- | ----------- | ------------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/?envType=study-plan-v2&envId=top-interview-150)|[C++ , JS](./Top%20Interview%20150/Hashmap/1.Two_Sum.md)|Easy|Array, Hash Table|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/?envType=study-plan-v2&envId=top-interview-150)|[C++](./Top%20Interview%20150/Linked-List/2.Add_Two_Numbers.md)|Medium|Linked List, Math, Recursion|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/?envType=study-plan-v2&envId=top-interview-150)|[C++](./Top%20Interview%20150/Array-String/12.Integer_to_Roman.md)|Medium|Hash Table, Math, String|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=study-plan-v2&envId=top-interview-150)|[C++](./Top%20Interview%20150/Linked-List/19.RemoveN_th_Node_From_End_of_List.md)|Medium|Linked List, Two Pointers|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=study-plan-v2&envId=top-interview-150)|[C++](./Top%20Interview%20150/Stack/20.Valid_Parentheses.md)|Easy|Stack, String|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=study-plan-v2&envId=top-interview-150)|[C++](./Top%20Interview%20150/Linked-List/21.Merge_Two_Sorted_Lists.md)|Easy|Linked List, Recursion|
